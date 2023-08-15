@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\bin\Debug\net6.0\Casteos_udy.exe
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\bin\Debug\net6.0\Casteos_udy.deps.json
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\bin\Debug\net6.0\Casteos_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\bin\Debug\net6.0\Casteos_udy.dll
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\bin\Debug\net6.0\Casteos_udy.pdb
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.dll
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\refint\Casteos_udy.dll
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.pdb
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\Casteos_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Casteos_udy\Casteos_udy\obj\Debug\net6.0\ref\Casteos_udy.dll
